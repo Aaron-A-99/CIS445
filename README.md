@@ -1,1 +1,5 @@
-# CIS445
+# 
+Demo repo for CIS 445
+
+# GIT demo 
+we learn some basic git commands 
